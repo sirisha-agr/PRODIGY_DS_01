@@ -1,0 +1,1 @@
+The attached file is my first internship task of data visualization that was assigned to me during my internship period with "Prodigy InfoTech". The task was performed using visualization tool called Tableau.
